@@ -1,0 +1,24 @@
+[25192:21644:0201/204932.095:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25192:21644:0201/204932.136:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26208:29420:0201/204947.064:ERROR:frame_impl.cc(537)] frame 5-36B9F3380260221A1D2BC58907BBD693 connection timeout
+[25192:16340:0201/204949.958:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25192:21644:0201/204950.288:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25192:21644:0201/204950.289:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25192:21644:0201/204950.289:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25192:21644:0201/204950.289:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25192:16340:0201/204950.295:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28908:14804:0201/205201.987:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28908:14804:0201/205201.988:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[25192:21644:0201/210218.000:ERROR:device_event_log_impl.cc(196)] [21:02:17.932] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
+[25192:21644:0201/210218.000:ERROR:device_event_log_impl.cc(196)] [21:02:17.934] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Brak dalszych danych. (0x103)
+[25192:29404:0201/210220.203:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9128:18880:0201/210220.237:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25192:29404:0201/214239.036:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25192:29404:0201/214239.050:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9128:11912:0201/214239.054:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25192:21644:0201/214241.437:ERROR:device_event_log_impl.cc(196)] [21:42:41.242] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
+[25192:21644:0201/214241.776:ERROR:device_event_log_impl.cc(196)] [21:42:41.699] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Brak dalszych danych. (0x103)
+[25192:21644:0201/220428.180:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 25-4A1592E7BEBD1A1985B7E161FB77690D (has_rfh=1)
+[30140:20564:0201/220428.196:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 16-5AB1DE8CDD110235A009F71F28C28627 will be ignored
+[31628:17832:0201/220540.140:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 26-CDE6F6C15DD06B6AAAB1AD53541C83B2 will be ignored
+[25192:21644:0201/233057.511:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

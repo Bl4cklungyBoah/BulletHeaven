@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/Variant_TwinStick/Blueprints/BP_TwinStickCharacter.uasset",
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/Variant_TwinStick/Blueprints/BP_TwinStickGameMode.uasset",
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/Animations/Blend_Spaces/BS_RevenantMovement.uasset",
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/ParagonRevenant/Characters/Heroes/Revenant/RevenantPlayerCharacter.uasset",
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/ParagonRevenant/Characters/Heroes/Revenant/AnimationTestMap.umap",
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/ParagonRevenant/Characters/Heroes/Revenant/Animations/AimOffsets/Revenant_Idle_AO.uasset",
+				"D:/unreal projects/BulletHeaven/BulletHeaven/Content/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.uasset"
+			]
+		}
+	]
+}
